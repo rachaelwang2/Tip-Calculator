@@ -1,6 +1,6 @@
 # Tip Calculator 
 
-## *Qiwen Wang*
+## *Rachael Wang*
 
 **Tippy** computes the tip and total amount for a bill. The app uses the base amount and tip percentage to calculate the amount owed, and it also describes the quality of service based on the tip.
 
@@ -38,7 +38,7 @@ Video link: https://imgur.com/a/fzcnwBK
     
 ## License
 
-    Copyright 2020 Qiwen Wang
+    Copyright 2020 Rachael Wang
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
